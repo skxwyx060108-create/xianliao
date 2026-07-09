@@ -1,0 +1,39 @@
+# 工作记录 - 2026-07-09
+
+## 任务：GitHub 项目初始化和推送
+
+### 完成步骤
+
+1. **安装 Git**
+   - Git 已安装在 `C:\Program Files\Git\bin\git.exe`（v2.55.0）
+   - 手动添加到环境变量后使用
+
+2. **初始化本地仓库**
+   - 在 `D:\SKX\xianliao` 初始化 Git 仓库
+   - 分支命名为 `main`
+   - 创建 `.gitignore`（忽略 OS 文件和编辑器临时文件）
+   - 首次提交：`d28f7ee Initial commit: outlook course summary note`
+
+3. **安装并登录 GitHub CLI**
+   - 通过 winget 安装 GitHub CLI v2.96.0
+   - 使用设备码方式登录 GitHub 账号：`skxwyx060108-create`
+
+4. **创建远程仓库并推送**
+   - 创建公开仓库：`https://github.com/skxwyx060108-create/xianliao`
+   - 添加 README.md 并推送
+   - 当前提交记录：`11b3c93 Add README.md`
+
+### 项目文件
+
+| 文件 | 说明 |
+|------|------|
+| `README.md` | 项目说明 |
+| `outlook_course_summary_20260709.md` | Outlook 课程邮件汇总笔记 |
+| `.gitignore` | Git 忽略规则 |
+
+### 项目信息
+
+- GitHub 地址：https://github.com/skxwyx060108-create/xianliao
+- 本地路径：`D:\SKX\xianliao`
+- 用户：王 王煜翔
+- Outlook 邮箱：SKX2361769962@outlook.com
